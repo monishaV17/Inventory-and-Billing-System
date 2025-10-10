@@ -12,6 +12,7 @@ The Inventory Billing System is a Java-based console application designed to man
 7) Data persistence with CSV file (inventory.csv)
 
 **Project Structure**
+
 src/
   app/
     InventoryBillingApp.java
@@ -34,11 +35,13 @@ Command:
   javac src/app/InventoryBillingApp.java src/model/*.java
 
 **Run Instructions**
+
 Start the application from the project root with:
 command:
   java -cp src app.InventoryBillingApp
   
 **CSV Format**
+
 The inventory data in inventory.csv uses:
 ID,Name,Quantity,Price
 
@@ -48,12 +51,14 @@ command:
   102,Banana,30,15.0
 
 **.gitignore**
+
 Your repository should have a .gitignore file containing:
 .idea/
 out/
 to exclude IDE and build folders from Git.
 
 **Notes**
+
 All program input and output works via the console.
 Building and running in IntelliJ IDEA generates output files in the out folder.
 All essential source files are inside the src folder.
