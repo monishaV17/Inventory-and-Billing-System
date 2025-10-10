@@ -29,19 +29,24 @@ inventory.iml
    
 **Installation** 🛠️
 1. Clone the repository
-   git clone <repository-url>
+   git clone https://github.com/monishaV17/Inventory-and-Billing-System/tree/master
    cd InventoryBillingSystem
 2. Ensure you have Java installed (Java 8 or above).
    
 **Build Instructions** 🏗️
+
   In your project root directory, compile with:
+  
 Command:
+
   javac src/app/InventoryBillingApp.java src/model/*.java
 
 **Run Instructions** ▶️
 
 Start the application from the project root with:
+
 command:
+
   java -cp src app.InventoryBillingApp
   
 **CSV Format**
@@ -52,13 +57,17 @@ ID,Name,Quantity,Price
 Example:
 command:
   101,Apple,50,25.0
+  
   102,Banana,30,15.0
 
 **.gitignore**
 
 Your repository should have a .gitignore file containing:
+
 .idea/
+
 out/
+
 to exclude IDE and build folders from Git.
 
 **Notes**
