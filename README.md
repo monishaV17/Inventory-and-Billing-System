@@ -30,8 +30,9 @@ inventory.iml
 **Installation** 🛠️
 1. Clone the repository
    git clone https://github.com/monishaV17/Inventory-and-Billing-System/tree/master
+   
    cd InventoryBillingSystem
-2. Ensure you have Java installed (Java 8 or above).
+3. Ensure you have Java installed (Java 8 or above).
    
 **Build Instructions** 🏗️
 
@@ -51,7 +52,8 @@ command:
   
 **CSV Format**
 
-The inventory data in inventory.csv uses:
+The inventory data in inventory.csv 
+uses:
 ID,Name,Quantity,Price
 
 Example:
