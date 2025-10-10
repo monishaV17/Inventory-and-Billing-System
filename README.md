@@ -53,6 +53,7 @@ command:
 **CSV Format**
 
 The inventory data in inventory.csv 
+
 uses:
 ID,Name,Quantity,Price
 
