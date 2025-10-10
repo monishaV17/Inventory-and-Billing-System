@@ -26,7 +26,9 @@ src/
     Bill.java
     
 inventory.csv
+
 .gitignore
+
 inventory.iml
 
 **Installation**
