@@ -14,12 +14,17 @@ The Inventory Billing System is a Java-based console application designed to man
 **Project Structure**
 
 src/
+
   app/
+  
     InventoryBillingApp.java
+    
   model/
+  
     Inventory.java
     InventoryItem.java
     Bill.java
+    
 inventory.csv
 .gitignore
 inventory.iml
