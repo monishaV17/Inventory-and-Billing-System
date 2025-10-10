@@ -14,11 +14,17 @@ The Inventory Billing System is a Java-based console application designed to man
 **Project Structure** 🗂️
 
 src/app/InventoryBillingApp.java
+
 src/model/Inventory.java
+
 src/model/InventoryItem.java
+
 src/model/Bill.java
+
 inventory.csv
+
 .gitignore
+
 inventory.iml
    
 **Installation** 🛠️
@@ -58,7 +64,9 @@ to exclude IDE and build folders from Git.
 **Notes**
 
 All program input and output works via the console. 🖥️
+
 Building and running in IntelliJ IDEA generates output files in the out folder.
+
 All essential source files are inside the src folder.
 
 **License** 📜
