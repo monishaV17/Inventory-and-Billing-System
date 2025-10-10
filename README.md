@@ -11,25 +11,22 @@ The Inventory Billing System is a Java-based console application designed to man
 6) Display bill summaries, including total amount
 7) Data persistence with CSV file (inventory.csv)
 
-**Project Structure**
+Project Structure
 
 src/
+│
+├── app/
+│   └── InventoryBillingApp.java
+│
+└── model/
+    ├── Inventory.java
+    ├── InventoryItem.java
+    └── Bill.java
 
-  app/
-  
-    InventoryBillingApp.java
-    
-  model/
-  
-    Inventory.java
-    InventoryItem.java
-    Bill.java
-    
 inventory.csv
-
 .gitignore
-
 inventory.iml
+
 
 **Installation**
 1. Clone the repository
