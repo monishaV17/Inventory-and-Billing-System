@@ -38,7 +38,7 @@ inventory.iml
 
   In your project root directory, compile with:
   
-Command:
+**Command:**
 
   javac src/app/InventoryBillingApp.java src/model/*.java
 
@@ -46,7 +46,7 @@ Command:
 
 Start the application from the project root with:
 
-command:
+**command:**
 
   java -cp src app.InventoryBillingApp
   
